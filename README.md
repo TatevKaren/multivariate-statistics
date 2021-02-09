@@ -6,5 +6,5 @@ Case Study in ranking U.S. cities based on a single linear combination of rating
 <p align="center">
 <img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/CCA_plot1.png?raw=true"
   alt="Canonical Correlation Plots"
-  width="686" height="289">
+  width="400" height="250">
 </p>
