@@ -5,10 +5,18 @@ Case Study in ranking U.S. cities based on a single linear combination of rating
 
 ## Principal Component Analysis (PCA) Screenshots
 <p align="center">
-<img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/Elbow_rule_%25varc_explained.png?raw=true"
-  alt="Principla Comppnent Analysis: Elbow Rule"
+<img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/PCA_plot.png?raw=true"
+  alt="Principle Component Analysis"
   width="450" height="350">
 </p>
+
+<p align="center">
+<img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/Elbow_rule_%25varc_explained.png?raw=true"
+  alt="Principle Component Analysis: Elbow Rule % Variation Explained"
+  width="450" height="350">
+</p>
+
+
 
 ## Canonical Correlation Analysis (CCA) Screenshots
 <p align="center">
