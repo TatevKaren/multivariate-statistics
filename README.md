@@ -11,7 +11,7 @@ Biplot with scaled data where yoou can observe that Crime and Education have the
   width="450" height="350">
 <img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/Elbow_rule_%25varc_explained.png?raw=true"
   alt="Principle Component Analysis: Elbow Rule % Variation Explained"
-  width="350" height="350">
+  width="400" height="350">
 </p>
 
 
