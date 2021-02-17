@@ -17,16 +17,15 @@ Biplot with scaled data where yoou can observe that Crime and Education have the
 
 
 ## Canonical Correlation Analysis (CCA) Screenshots
+Figures showing clear correlation between X and Y scores for the first canonical correlation which is not the case for the second factor, where one can observe some correlation but not significant. This shows that the first canonical correlation is important but second one is not.
+
 <p align="left">
 <img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/CCA_plot2.png?raw=true"
   alt="Canonical Correlation Plot 2"
-  width="450" height="350">
-</p>
-
-<p align="left">
+  width="400" height="350">
 <img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/CCA_plot1.png?raw=true"
   alt="Canonical Correlation Plot 1"
-  width="450" height="350">
+  width="400" height="350">
 </p>
 
 
