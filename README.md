@@ -10,10 +10,10 @@ Biplot with scaled data where yoou can observe that Crime and Education have the
 <p align="left">
 <img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/PCA_plot.png?raw=true"
   alt="Principle Component Analysis"
-  width="400" height="350">
+  width="450" height="300">
 <img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/Elbow_rule_%25varc_explained.png?raw=true"
   alt="Principle Component Analysis: Elbow Rule % Variation Explained"
-  width="350" height="350">
+  width="350" height="300">
 </p>
 
 
